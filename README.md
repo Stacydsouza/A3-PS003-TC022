@@ -2,4 +2,4 @@
 This repository will contain the code and resources for the AIORI-3 hackathon that will be developed during the AIORI-3
 ## Team Introduction Video
 
-YouTube Link: https://youtu.be/hli1YQfHCnw
+YouTube Link: https://youtu.be/yqZmmuIumuc
